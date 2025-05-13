@@ -35,7 +35,7 @@ header {
 header h1 {
   margin: 0;
   font-size: 2.5rem;
-  color: #b369a3;
+  color: #d182c0;
 }
 
 header p {
@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 h2 {
-  color: #2c1f2e;
+  color: #d182c0;
   border-bottom: 2px solid rgba(255, 255, 255, 0.4);
   padding-bottom: 0.3rem;
   margin-bottom: 1rem;
@@ -87,7 +87,7 @@ h2 {
 .project a {
   display: inline-block;
   margin-top: 0.5rem;
-  color: #6b5533;
+  color: #d182c0;
   text-decoration: underline;
 }
 
@@ -98,7 +98,7 @@ ul li {
 footer {
   text-align: center;
   font-size: 0.9rem;
-  color: #b369a3;
+  color: #d182c0;
   border-top: 2px solid rgba(255, 255, 255, 0.4);
   animation: fadeIn 2s ease forwards;
   opacity: 0;
