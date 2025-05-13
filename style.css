@@ -61,11 +61,11 @@ nav a {
 }
 
 nav a:hover {
-  color: #ffb6c1;
+  color: #b369a3;
 }
 
 h2 {
-  color: #ffd6e7;
+  color: #2c1f2e;
   border-bottom: 2px solid rgba(255, 255, 255, 0.4);
   padding-bottom: 0.3rem;
   margin-bottom: 1rem;
@@ -87,7 +87,7 @@ h2 {
 .project a {
   display: inline-block;
   margin-top: 0.5rem;
-  color: #9ad0ec;
+  color: #6b5533;
   text-decoration: underline;
 }
 
